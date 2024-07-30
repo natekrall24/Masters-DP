@@ -8,4 +8,4 @@ Every entrant in the pool had $50,000 to choose 6 players. Each golfer in the 20
 
 As you may notice, this is a variant of the classic 0-1 Knapsack problem: you have a budget \( B \) to choose 6 players of cost \( C \) and value \( V \). How can you maximize value?
 
-I learned in my algorithms class that an elegant approach to the Knapsack problem is a dynamic programming algorithm. So, I implemented a 3D-DP algorithm to choose my team for me!
+I learned in my algorithms class that dynamic programming is an approach to the Knapsack problem. So, I implemented a 3D-DP algorithm to choose my team for me!
