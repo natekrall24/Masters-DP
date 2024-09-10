@@ -1,10 +1,10 @@
 # A Dynamic Programming Approach to the 0-1 Knapsack Problem
 
-I used this approach to win a 2024 Masters Tournament pool.
+I used DP to win a 2024 Masters Tournament pool.
 
 ## Pool Details
 
-Every entrant in the pool had $50,000 to choose 6 players. Each golfer in the 2024 Masters field was assigned a cost by DraftKings Sportsbook. Better golfers, like Scottie Scheffler, were more expensive ($12,100), while more average golfers, like Harris English, were less expensive ($7,000).
+Every entrant in the pool had $50,000 fake to choose 6 players. Each golfer in the 2024 Masters field was assigned a cost by DraftKings Sportsbook. Better golfers, like Scottie Scheffler, were more expensive ($12,100), while more average golfers, like Harris English, were less expensive ($7,000).
 
 As you may notice, this is a variant of the classic 0-1 Knapsack problem: you have a budget \(B\) to choose 6 players of cost \(C\) and value \(V\). How can you maximize value?
 
